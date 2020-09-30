@@ -1,0 +1,23 @@
+{
+  "name": "schedule-bot",
+  "version": "1.0.0",
+  "description": "시국이 시국인지라 맨날 시간표 까먹는 당신을 위해",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1-EXON/Schedule-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1-EXON/Schedule-Bot/issues"
+  },
+  "homepage": "https://github.com/1-EXON/Schedule-Bot#readme"
+}
