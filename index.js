@@ -26,6 +26,4 @@ client.on('message', (msg) => {
 
 })
 
-
 client.login(setting.token)
-
