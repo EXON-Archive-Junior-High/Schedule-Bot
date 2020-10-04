@@ -6,12 +6,6 @@
   "dependencies": {
     "discord.js": "^12.3.1"
   },
-  "devDependencies": {
-    "eslint": "^7.10.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-html": "^6.1.0",
-    "eslint-plugin-import": "^2.22.1"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/1-EXON/Schedule-Bot/issues"
   },
-  "homepage": "https://github.com/1-EXON/Schedule-Bot#readme"
+  "homepage": "https://github.com/1-EXON/Schedule-Bot#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
 }
