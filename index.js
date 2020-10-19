@@ -1,4 +1,4 @@
-const setting = require('./setting.json')
+const setting = require('./settings.json')
 const { Client, MessageEmbed } = require('discord.js')
 const { schedule } = require('./schedule.json')
 const client = new Client()
